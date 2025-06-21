@@ -22,7 +22,7 @@ A bite-sized project to practise **embedded-systems thinking** from both sides o
 
 | Step | PC side | Arduino side |
 |-----|---------|--------------|
-| 1 | `git clone https://github.com/<your-name>/battleship-arduino.git` | Open **arduino/battleship.ino** in the Arduino IDE |
+| 1 | `git clone https://github.com/<your-name>/battleShip.git` | Open **arduino/battleship.ino** in the Arduino IDE |
 | 2 | `cd pc` | Choose the correct board & port |
 | 3 | `cmake -B build && cmake --build build --config Release` | Click **Upload** |
 | 4 | `build\Battleship.exe` | _enjoy!_ |
